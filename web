@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redondo Abogados & Asociados</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Redondo Abogados & Asociados</h1>
+    <nav>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#servicios">Servicios</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="nosotros">
+    <h2>Sobre Nosotros</h2>
+    <p>Somos un despacho de abogados comprometido con la justicia, la ética y el servicio al cliente. Atendemos casos civiles, laborales y empresariales.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Nuestros Servicios</h2>
+    <ul>
+      <li>Asesoría legal civil</li>
+      <li>Derecho laboral</li>
+      <li>Consultoría empresarial</li>
+      <li>Representación judicial</li>
+    </ul>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Correo: contacto@redondoabogados.com</p>
+    <p>Teléfono: +57 300 000 0000</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Redondo Abogados & Asociados</p>
+  </footer>
+</body>
+</html>
